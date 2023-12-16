@@ -26,7 +26,10 @@ const HeroSection = () => {
                     
                 </h1>
                 <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    As a third- year student, I am a fast learner who is passionate about keeping up with the latest technologies. I am well-versed in DSA and OOP concepts. Recently, I have also become
+                    proficient in back- end development technologies. I am excited to continue expanding my
+                    skills and knowledge in the field and  eager to take on any new challenges that come
+                    my way.
                 </p>
 
                 <div>
